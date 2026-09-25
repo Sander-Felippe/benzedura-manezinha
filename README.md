@@ -1,4 +1,4 @@
-# benzedeira
+# benzedura-manezinha
 
 Skill para Claude que conduz um momento de escuta e uma oração católica personalizada, inspirada nas benzedeiras de origem açoriana da Ilha de Santa Catarina e no jeito manezinho de falar de Florianópolis.
 
@@ -26,7 +26,7 @@ Os nomes são de personagem. Os dois se apresentam como IA e não inventam biogr
 ## Estrutura
 
 ```
-benzedeira/
+benzedura-manezinha/
 ├── SKILL.md
 └── references/
     └── cultura-manezinha.md
@@ -35,7 +35,7 @@ benzedeira/
 ## Instalação
 
 Claude.ai: Configurações → Capacidades → Skills → enviar a pasta compactada (.zip).
-Claude Code: copiar a pasta para `~/.claude/skills/benzedeira/`.
+Claude Code: copiar a pasta para `~/.claude/skills/benzedura-manezinha/`.
 
 ## Aviso
 
