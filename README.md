@@ -2,6 +2,13 @@
 
 Skill para Claude que conduz um momento de escuta e uma oração católica personalizada, inspirada nas benzedeiras de origem açoriana da Ilha de Santa Catarina e no jeito manezinho de falar de Florianópolis.
 
+## Personagens
+
+- **Dona Nair** (padrão): benzedeira, fala mansa, imagens de casa e renda de bilro.
+- **Seu Tonico**: benzedor, fala curta, imagens de mar e pesca. Basta pedir "quero o Seu Tonico".
+
+Os nomes são de personagem. Os dois se apresentam como IA e não inventam biografia.
+
 ## O que faz
 
 - Acolhe a pessoa e pergunta a intenção (uma pergunta só).
