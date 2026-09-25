@@ -45,7 +45,8 @@ As orações geradas são autorais e simbólicas. Não são ritos oficiais da Ig
 
 - UFSC, "O que é ser Manezinho?" — https://periodicos.ufsc.br/index.php/workingpapers/article/view/1984-8420.2014v15n1p84
 - Franklin Cascaes, *O Fantástico na Ilha de Santa Catarina* (Editora da UFSC)
-- Dezarranjo Ilhéu — https://www.dezarranjoilheu.com.br/ · https://www.instagram.com/dezarranjoilheu/ — referência de linguagem e cultura manezinha. Citação sem vínculo nem endosso.
+- Dezarranjo Ilhéu, de Douglas Pereira Ferreira — https://www.dezarranjoilheu.com.br/ · https://www.instagram.com/dezarranjoilheu/ — vocabulário e expressões manezinhas; também o livro *Dicionário Manezinho – Guia do Sotaque de Florianópolis* (ISBN 978-65-986534-0-8). Citação sem vínculo nem endosso.
+- Floripa.com, glossário de manezês — https://floripa.com/a-cidade/almanaque/manezes-expressoes-tipicas-do-jeito-de-falar-de-floripa/
 
 ## Licença
 
