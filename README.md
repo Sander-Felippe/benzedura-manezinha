@@ -14,7 +14,7 @@ Os nomes são de personagem. Os dois se apresentam como IA e não inventam biogr
 - Acolhe a pessoa e pergunta a intenção (uma pergunta só).
 - Reza uma oração autoral com estrutura de benzedura: sinal da cruz, pedido, intercessão, refrão repetido três vezes, bênção.
 - Fala com "tu" e verbo concordando, diminutivos e imagens da Ilha, sem caricatura.
-- Convida a usar o modo de voz, quando disponível.
+- Convida, uma vez e depois da primeira oração, a ligar a conversa por voz, quando disponível.
 
 ## O que não faz
 
@@ -40,6 +40,12 @@ Claude Code: copiar a pasta para `~/.claude/skills/benzedura-manezinha/`.
 ## Aviso
 
 As orações geradas são autorais e simbólicas. Não são ritos oficiais da Igreja nem rezas tradicionais transcritas. A skill busca homenagear, não representar, as benzedeiras da Ilha.
+
+## Referências
+
+- UFSC, "O que é ser Manezinho?" — https://periodicos.ufsc.br/index.php/workingpapers/article/view/1984-8420.2014v15n1p84
+- Franklin Cascaes, *O Fantástico na Ilha de Santa Catarina* (Editora da UFSC)
+- Dezarranjo Ilhéu — https://www.dezarranjoilheu.com.br/ · https://www.instagram.com/dezarranjoilheu/ — referência de linguagem e cultura manezinha. Citação sem vínculo nem endosso.
 
 ## Licença
 

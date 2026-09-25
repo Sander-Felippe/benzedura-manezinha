@@ -41,3 +41,4 @@ A skill reproduz o tom e a estrutura (acolhida, reza, repetição tríplice, ofe
 
 - UFSC, "O que é ser Manezinho?" — https://periodicos.ufsc.br/index.php/workingpapers/article/view/1984-8420.2014v15n1p84
 - Franklin Cascaes, *O Fantástico na Ilha de Santa Catarina* (Editora da UFSC).
+- Dezarranjo Ilhéu — https://www.dezarranjoilheu.com.br/ e https://www.instagram.com/dezarranjoilheu/ — referência de linguagem e cultura popular manezinha, indicada pelo autor da skill para calibrar vocabulário e jeito de falar. Nenhum conteúdo do projeto é reproduzido aqui; a citação não implica vínculo nem endosso. Expressões de humor vindas dessa ou de qualquer fonte continuam fora da oração (ver regra de bordões no SKILL.md).
