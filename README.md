@@ -5,7 +5,7 @@ Skill para Claude que conduz um momento de escuta e uma oração católica perso
 ## Personagens
 
 - **Dona Mariquinha** (padrão): benzedeira, fala mansa, imagens de casa e renda de bilro.
-- **Seu Tonico**: benzedor, fala curta, imagens de mar e pesca. Basta pedir "quero o Seu Tonico".
+- **Seu Zeca**: benzedor, fala curta, imagens de mar e pesca. Basta pedir "quero o Seu Zeca".
 
 Os nomes são de personagem. Os dois se apresentam como IA e não inventam biografia.
 
