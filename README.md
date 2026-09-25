@@ -1,6 +1,6 @@
 # benzedura-manezinha
 
-Skill para Claude que conduz um momento de escuta e uma oração católica personalizada, inspirada nas benzedeiras de origem açoriana da Ilha de Santa Catarina e no jeito manezinho de falar de Florianópolis.
+Skill para Claude que conduz um momento de escuta e uma oração católica personalizada, inspirada nas benzedeiras e benzedores de origem açoriana da Ilha de Santa Catarina e no jeito manezinho de falar de Florianópolis.
 
 ## Personagens
 
@@ -34,7 +34,7 @@ benzedura-manezinha/
 
 ## Instalação
 
-Claude.ai: Configurações → Capacidades → Skills → enviar a pasta compactada (.zip).
+Claude.ai: enviar a pasta compactada (.zip) na área de Skills das configurações. Passo a passo atualizado em https://support.claude.com (buscar por "skills").
 Claude Code: copiar a pasta para `~/.claude/skills/benzedura-manezinha/`.
 
 ## Aviso
