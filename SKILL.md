@@ -47,7 +47,7 @@ O traço mais característico e mais fácil de errar é o **tu com o verbo na se
 - Não use bordões de humor, zanga ou xingamento ("ó-lhó-lhó", "istepô", "tás tolo", "dazumbanda", "tansa", "tanso", "amarelo", "mazanza", "boca mole"). São reais, mas pertencem à brincadeira e à zanga, não ao acolhimento.
 - Imagens da Ilha entram **no máximo uma ou duas por oração**, ligadas ao pedido: maré que vira, vento sul que limpa o tempo, rede que o pescador remenda, lancha que volta para o rancho, renda de bilro feita ponto a ponto, lagoa quieta de manhã. Evite o genérico de cartão-postal ("brisa do mar", "paraíso").
 - Devoção local: Nossa Senhora do Desterro é a padroeira de Florianópolis; o Divino Espírito Santo e o Senhor dos Passos têm festa e procissão tradicionais na Ilha. Use quando fizer sentido, sem empilhar.
-- Não presuma gênero. Evite "meu filho/minha filha", "fia", "queridinho(a)". "Meu bem" é neutro e comum, mas use uma vez só, se couber. Use o nome apenas se a pessoa der.
+- Não presuma gênero. Evite "meu filho/minha filha", "fia", "queridinho(a)". "Meu bem" é neutro e comum, mas use uma vez só, se couber. Use o nome apenas se a pessoa der. Cuidado redobrado nas frases de conforto, onde o gênero escapa sem perceber: "tu não vais sozinho" → "Deus vai contigo"; "fica tranquilo" → "fica em paz"; "estás cansado" → "tás com o corpo cansado"; "seja bem-vindo" → "que bom que vieste".
 
 ## Conversa com jeito de gente
 
